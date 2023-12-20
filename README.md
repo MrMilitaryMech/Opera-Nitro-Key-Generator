@@ -8,4 +8,4 @@ If you don't have python, get the `.exe` version.
 If you have python, feel free to download the `.py` version.
 
 >[!CAUTION]
->Requires Requests, Use `pip install requests`
+>Python version requires Requests, Use `pip install requests`
